@@ -1,0 +1,34 @@
+@charset "UTF-8";
+.my-class {
+    color: blueviolet;
+    border: 1px solid blue;
+    background-color: lightblue;
+    padding: 0.5 em;
+    text-align: center;
+}
+#my-id {
+    border: double;
+    color: blue;
+    text-align: center;
+}
+
+
+#my-id1 {
+    color: red;
+    text-align: center;
+}
+
+#background {
+    background-color: grey;
+}
+
+
+
+my-container {
+    border-bottom: thick;	
+}
+
+
+.my-class2 {
+    align-items: center;	
+}
