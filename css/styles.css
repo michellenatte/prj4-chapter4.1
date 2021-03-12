@@ -1,34 +1,66 @@
 @charset "UTF-8";
-.my-class {
-    color: blueviolet;
-    border: 1px solid blue;
-    background-color: lightblue;
-    padding: 0.5 em;
+
+     * { margin: 0; padding: 0; border: 0; font-size: 100%; }
+
+body {
+	background-image:url("../../../Week 4/prj4-chapter-4/images/flowers.jpg")
+		
+}
+.class-1 {
+    color: #CBAACB;
+    text-decoration: underline;
     text-align: center;
+    font-size: 30px;
+    letter-spacing: 2px;
+    line-height: 4;
+    background-color: #ABDEE6;
+    font-weight: 900;
+	font-family: 'Anton', sans-serif;
 }
-#my-id {
-    border: double;
-    color: blue;
+
+.class-2 {
     text-align: center;
+    font-size: 18px;
+    line-height: 1.5;
+    padding-left: 40px;
+    padding-right: 40px;
+	background-color: white
 }
 
 
-#my-id1 {
-    color: red;
+.class-3{
     text-align: center;
+    font-size: 30px;
+    line-height: 2;
+    color: #FFCBC6;
+    margin: auto;
+    background-color: #CBAACB;
+	}
+
+
+#my-id1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    height: 30%;
+	width: 30%
+	
 }
 
-#background {
-    background-color: grey;
+#my-id2 {
+    color: whitesmoke;
+    font-size: 25px;
+    line-height: inherit;	
+		
 }
 
-
-
-my-container {
-    border-bottom: thick;	
+#my-id3 {
+    font-weight: 700;	
 }
 
-
-.my-class2 {
-    align-items: center;	
+.class-4 {
+    margin-left: 350px;
+    margin-right: 350px;		
 }
+
