@@ -1,11 +1,12 @@
 @charset "UTF-8";
 
-     * { margin: 0; padding: 0; border: 0; font-size: 100%; }
 
 body {
-	background-image:url("../../../Week 4/prj4-chapter-4/images/flowers.jpg")
-		
+	 margin: 0; padding: 0; border: 0; font-size: 100%; 
+	background-image:url("../images/flowers.jpg")
 }
+
+
 .class-1 {
     color: #CBAACB;
     text-decoration: underline;
